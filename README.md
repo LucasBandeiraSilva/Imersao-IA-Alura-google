@@ -9,7 +9,7 @@ código do desafio da Imersão Ia da Alura com o google
  - Selecione a primeira opção para fazer o **upload** do arquivo ``Base_De_Dados_Games.xlsx``
  #
  # Configure sua API key do Google
- - Faça a configuração da sua API key através do site do google AI Studio. [Acessar site](aistudio.google.com).
+ - Faça a configuração da sua API key através do site do google AI Studio. [Acessar site](https://aistudio.google.com/app/prompts/new_chat).
  - Clique em **Get API Key**
  #
  - Caso não você não tenha uma, crie a partir da opção ``Create API Key``
